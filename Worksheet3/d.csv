@@ -1,0 +1,5 @@
+ID,Age,is_part_time,salary
+1,20,True,1000
+2,30,False,2000
+3,40,True,3000
+4,50,False,4000
